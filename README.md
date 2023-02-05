@@ -19,8 +19,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![Desktop](stats-preview-card-component-desktop-Solution.png)
-![Mobile](stats-preview-card-component-mobile-Solution.png)
+![Desktop](‏stats-preview-card-component-desktop-Solution.png)
+![Mobile](‏stats-preview-card-component-mobile-Solution.png)
 
 ### Links
 
